@@ -27,6 +27,9 @@ The original code ran in 1.414063 seconds for 2017 and 1.367188 seconds for 2018
 ![VBA_Challenge_2018_Original Code](https://user-images.githubusercontent.com/111570965/188292368-a94208c7-5024-47e2-8b71-cd4749d853fc.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/111570965/188292369-7c696882-cfb1-4071-a0d5-497f98eb0bd8.png)
 
+![VBA_Challenge_Run_Times_Table](https://user-images.githubusercontent.com/111570965/188292447-b9463fb4-f0f1-46a2-a588-246f5f554e59.png)
+
+
 
 ## Summary
 
