@@ -39,4 +39,14 @@ Refactoring code is an important part of the code writing process. In order to i
 
 ### Advantages and Disadvantages of the Original and Refactored VA Script
 
-The advantage of the original VBA script is that it is easy to read, understand, and follow. The disadvantage is that it does not carry over well for a larger dataset. It is looping through multiple rows of data multiple times. The advantage of the refactored VBA script is that it runs faster and more efficiently so it can handle a larger dataset. It is only looping through an array of data one time. The disadvantage is that it can be more confusing and harder to read and navigate through. Comments are imperative.
+The advantage of the original VBA script is that it is easy to read, understand, and follow. The disadvantage is that it does not carry over well for a larger dataset. It is looping through multiple rows of data multiple times. 
+
+![VBA_Challenge_Original_Code_SS1](https://user-images.githubusercontent.com/111570965/188292676-750d62b4-7a3b-4c1d-8f41-2c3e488b0109.png)
+![VBA_Challenge_Original_Code_SS2](https://user-images.githubusercontent.com/111570965/188292678-02261c1e-9fce-440e-829a-c0042720b290.png)
+
+
+The advantage of the refactored VBA script is that it runs faster and more efficiently so it can handle a larger dataset. It is only looping through an array of data one time. The disadvantage is that it can be more confusing and harder to read and navigate through. Comments are imperative.
+
+![VBA_Challenge_Refactored_Code_SS1](https://user-images.githubusercontent.com/111570965/188292681-ffc713e1-ace1-4c9e-bd4f-06a4f5f53202.png)
+![VBA_Challenge_Refactored_Code_SS2](https://user-images.githubusercontent.com/111570965/188292683-d92df904-6a9d-4a1a-a97c-c29f4ff52746.png)
+
