@@ -1,4 +1,4 @@
-VBA Challenge
+# Stock Analysis
 
 ## Overview of Project
 
