@@ -12,9 +12,21 @@ Steve wants to analyze 12 stocks and their performance in 2017 and 2018. Code wa
 
 I created a table with the returns side by side and added a column to calculate the variance. In 2017 all of the stocks had positive returns with the exception of TERP. In 2018, only two stocks had positive returns: ENPH and RUN. The only two stocks to maintain a positive variance between 2017 and 2018 were ENPH and RUN. The only two stocks to have a positive variance from 2017 to 2018 were RUN and TERP. The smallest variance belongs to TERP with a 2.2% variance. The largest variance belongs to DQ with a -262.0% variance. DQ also had the highest return in 2017 and the lowest return in 2018. 
 
+
+![VBA_Challenge_Comparison_Table](https://user-images.githubusercontent.com/111570965/188292331-17372023-5882-4952-8744-2af850d6599e.png)
+
+![VBA_Challenge_Descriptive_Analysis](https://user-images.githubusercontent.com/111570965/188292344-a774f5c9-d9ce-4320-b09c-d71f6c9513bf.png)
+
 ### Comparing Original Code to Refactored Code
 
 The original code ran in 1.414063 seconds for 2017 and 1.367188 seconds for 2018. For these two limited datasets the average run time for the original code was 1.390626 seconds. The refactored code ran in 0.1875 seconds for 2017 and 0.234375 seconds for 2018. For these two limited datasets the average run time for the refactored code was 0.210938 seconds. 
+
+![VBA_Challenge_2017_Original Code](https://user-images.githubusercontent.com/111570965/188292359-9e597d6a-2f9e-4f36-99bc-728107755cbc.png)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/111570965/188292362-08ac16e5-5305-452f-ac80-91e9d42e5dee.png)
+
+![VBA_Challenge_2018_Original Code](https://user-images.githubusercontent.com/111570965/188292368-a94208c7-5024-47e2-8b71-cd4749d853fc.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/111570965/188292369-7c696882-cfb1-4071-a0d5-497f98eb0bd8.png)
+
 
 ## Summary
 
