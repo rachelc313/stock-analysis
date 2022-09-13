@@ -8,7 +8,7 @@ Steve wants to analyze 12 stocks and their performance in 2017 and 2018. Code wa
 
 ## Results
 
-### Comparing Stock Anaysis for 2017 and 2018
+### Comparing Stock Analysis for 2017 and 2018
 
 I created a table with the returns side by side and added a column to calculate the variance. In 2017 all of the stocks had positive returns with the exception of TERP. In 2018, only two stocks had positive returns: ENPH and RUN. The only two stocks to maintain a positive variance between 2017 and 2018 were ENPH and RUN. The only two stocks to have a positive variance from 2017 to 2018 were RUN and TERP. The smallest variance belongs to TERP with a 2.2% variance. The largest variance belongs to DQ with a -262.0% variance. DQ also had the highest return in 2017 and the lowest return in 2018. 
 
